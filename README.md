@@ -3,7 +3,7 @@
 
 CSES username: AU25-Samurai
 
-#### Competitive Programming @ Ariel Univeristy
+#### Competitive Programming course at Ariel Univeristy
 #### Instructed by Dr. Nezer J. Zaidenberg
 
 ## Table of Contents
