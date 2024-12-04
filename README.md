@@ -1,13 +1,13 @@
 # CSES & Codeforces
-> Accepted solutions of [CSES problemset](https://cses.fi/problemset)
-> Accepted solutions of [Codeforces problemset](https://codeforces.com/problemset)
+> Accepted solutions of [CSES problemset](https://cses.fi/problemset) and  [Codeforces problemset](https://codeforces.com/problemset)
 
-CSES username: AU25-Samurai
-Codeforces username: AU25-Samurai
+**Competitive Programming course at Ariel Univeristy**
 
-#### Competitive Programming course at Ariel Univeristy
-#### Instructed by Dr. Nezer J. Zaidenberg
+**Instructed by Dr. Nezer J. Zaidenberg**
 
+Username: AU25-Samurai
+
+---
 ## CSES Table of Contents
 
 - [Introductory Problems](#Introductory-Problems)
